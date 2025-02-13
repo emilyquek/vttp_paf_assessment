@@ -12,4 +12,3 @@ create table imdb (
     runtime int default '90',
     constraint pk_imdb_id primary key (imdb_id)
 );
-
